@@ -199,13 +199,13 @@ Polynomial Regression outperformed Linear Regression and was selected as the fin
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/food-delivery-time-prediction.git
+git clone https://github.com/your-username/food-delivery-time-prediction.git](https://github.com/Yagnik-patel24/Food-Delivery-Time-Prediction)
 ```
 
 ### Navigate to Project Folder
 
 ```bash
-cd food-delivery-time-prediction
+cd Food-Delivery-Time-Prediction
 ```
 
 ### Install Required Libraries
